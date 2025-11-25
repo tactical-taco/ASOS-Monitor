@@ -1,11 +1,3 @@
-That's a vital clarification for users who are upgrading or managing their site lists\!
-
-I've updated the **Site Management** section of the README to explicitly detail the export capability and the different formats supported for importing.
-
-Here is the complete, revised README for your GitHub page:
-
------
-
 # ASOS Monitor
 
 [](https://www.google.com/search?q=https://github.com/tactical-taco/ASOS-Monitor/releases/latest)
