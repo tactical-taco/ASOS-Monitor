@@ -114,3 +114,10 @@ All settings are available under the **Options** menu:
 ## 🤝 Contribution
 
 Feel free to open issues for bugs or suggest new features\!
+
+-----
+
+### 💖 Support the Project
+This app is a passion project built in my spare time. If you find the **ASOS Monitor** useful and want to show your appreciation, you can literally [buy me a coffee](https://buymeacoffee.com/ke5wydf)! Your support helps keep me fueled for bug fixes and new features.
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Donate-orange?style=flat&logo=buy-me-a-coffee)](https://buymeacoffee.com/ke5wydf)
